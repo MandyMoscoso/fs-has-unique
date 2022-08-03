@@ -14,4 +14,4 @@ const hasUniqueChars = (word)=>{
         }
     }
 }
-console.log(hasUniqueChars("heIiloi"))
+// console.log(hasUniqueChars("heIiloi"))
